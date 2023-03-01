@@ -1,19 +1,6 @@
-Contributing to Forge
-=====================
+# Contributing
 
-Want to contribute to forge? Great! Here are a few notes:
+NetFoundry welcomes all and any contributions. All open source projects managed by NetFoundry share a common
+[guide for contributions](https://docs.openziti.io/policies/CONTRIBUTING.html).
 
-Code
-----
-
-* In general, follow the current code style or the [Node.js Style Guide][].
-* Read the [contributing](./README.md#contributing) notes.
-* Ensure [tests pass](./README.md#testing).
-
-Release Process
----------------
-
-Maintainers should refer to the [release instructions](./RELEASE.md).
-
-[Node.js Style Guide]: http://nodeguide.com/style.html
-[Semantic Versioning]: http://semver.org/
+If you are eager to contribute to a NetFoundry-managed open source project please read and act accordingly.
